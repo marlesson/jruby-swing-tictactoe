@@ -1,0 +1,5 @@
+= JRuby Swing TicTacToe
+
+Game sample in Jruby Swing
+
+$ jruby main.rb
